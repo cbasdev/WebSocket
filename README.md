@@ -22,7 +22,7 @@ npm install express --save
 npm install socket.io
 ```
 
-### Instalar EJS un lenguaje de creacion de plantillas para marcos HTML de frontend
+### Instalar EJS un lenguaje de creación de plantillas para marcos HTML de frontend
 
 ```bash
 npm install ejs
