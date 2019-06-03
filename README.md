@@ -30,5 +30,6 @@ npm install ejs
 
 ******************************************************
 
+### Creditos Jesus-Conde
 
-
+https://github.com/0utKast/node-chat
